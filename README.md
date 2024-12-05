@@ -36,7 +36,7 @@ that discourage, exhaust, or otherwise negatively affect other participants.
 
 ## Support
 
-Looking for help? Check out the
+Looking for help? Check out the document
 [instructions for getting support](.github/SUPPORT.md).
 
 ## Release types
